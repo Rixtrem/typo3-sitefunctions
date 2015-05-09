@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-05-09T19:46:43Z" product-name="sitefunctions">
+		<header/>
+		<body>
+			<trans-unit id="tx_sitefunctions_domain_model_copycfg">
+				<source>Copy Cfg</source>
+			</trans-unit>
+			<trans-unit id="tx_sitefunctions_domain_model_copycfg.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_sitefunctions_domain_model_copycfg.tablelist">
+				<source>Tablelist</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
